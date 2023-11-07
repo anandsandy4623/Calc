@@ -82,6 +82,6 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<exp8/app8/static/Screenshot (17).png>)
+![Screenshot (17)](https://github.com/anandsandy4623/Calc/assets/135193077/96604040-e44a-43c2-9ccf-ab1c87b5d293)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
